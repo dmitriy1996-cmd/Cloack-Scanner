@@ -1,0 +1,4 @@
+# One URL per line. Lines starting with "#" are ignored.
+# If scheme is missing, https:// will be added.
+example.com
+https://example.org
