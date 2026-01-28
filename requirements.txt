@@ -1,2 +1,5 @@
 requests>=2.31.0,<3
-selenium>=4.16.0,<5
+playwright>=1.40.0,<2
+
+# After pip install, run:
+#   python -m playwright install chromium
